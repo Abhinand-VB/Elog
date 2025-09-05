@@ -8,7 +8,7 @@ Can Print cards and use instead of phone by customer/sender
 
 Manual entry of log
 
-Report ediiing 
+Report editing 
 
 For Android Ios and Web  
  
